@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 15px;
+}
+h3 {
+color: whitesmoke;
+background-color: green;
+font-style: italic;
+font-size: 1.5rem;
+
+}
+a {
+    font-weight: bold;
+    color:green;
+    text-decoration-line: none;
+
+}
+img {
+    border-radius: 50%;
+}
+table {
+    text-align: center;
+}
